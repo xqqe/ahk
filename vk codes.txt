@@ -1,0 +1,63 @@
+VK30 – 0          VK41 – A          VK51 – Q
+VK31 – 1          VK42 – B          VK52 – R
+VK32 – 2          VK43 – C          VK53 – S
+VK33 – 3          VK44 – D          VK54 – T
+VK34 – 4          VK45 – E          VK55 – U
+VK35 – 5          VK46 – F          VK56 – V
+VK36 – 6          VK47 – G          VK57 – W
+VK37 – 7          VK48 – H          VK58 – X
+VK38 – 8          VK49 – I          VK59 – Y
+VK39 – 9          VK4A – J          VK5A – Z
+
+VK70 – F1         VK75 – F6         VK7A – F11
+VK71 – F2         VK76 – F7         VK7B – F12
+VK72 – F3         VK77 – F8         VK7C – F13+
+VK73 – F4         VK78 – F9         
+VK74 – F5         VK79 – F10        
+
+VK10 – Shift (usually used internally)
+VK11 – Ctrl (usually used internally)
+VK12 – Alt (used for generic "Alt")
+
+VKA0 – LShift      VKA1 – RShift
+VKA2 – LCtrl       VKA3 – RCtrl
+VKA4 – LAlt        VKA5 – RAlt
+VKA6 – Browser Back
+VKA7 – Browser Forward
+
+VK25 – ← Left     VK28 – ↓ Down
+VK26 – ↑ Up       VK27 – → Right
+
+VK2D – Insert     VK2E – Delete
+VK24 – Home       VK23 – End
+VK21 – Page Up    VK22 – Page Down
+
+VK08 – Backspace   VK09 – Tab
+VK0D – Enter       VK1B – Esc
+VK14 – Caps Lock   VK90 – Num Lock
+VK91 – Scroll Lock
+VK1C – Print Screen  VK2C – Snapshot
+
+VKBA – ;:        VKBB – =+
+VKBC – ,<        VKBD – -_
+VKBE – .>        VKBF – /?
+VKC0 – `~        VKDB – [{
+VKDC – \|        VKDD – ]}
+VKDE – '"        VKDF – Misc OEM key
+
+VK60 – Numpad 0   VK65 – Numpad 5   VK6A – Multiply
+VK61 – Numpad 1   VK66 – Numpad 6   VK6B – Add
+VK62 – Numpad 2   VK67 – Numpad 7   VK6C – Separator
+VK63 – Numpad 3   VK68 – Numpad 8   VK6D – Subtract
+VK64 – Numpad 4   VK69 – Numpad 9   VK6E – Decimal
+                                      VK6F – Divide
+
+VK5B – Menu (Apps/Context key)
+VK5C – Sleep
+VK5D – Win (Windows key) [VK5B–VK5D vary by OS]
+
+VKB0 – Play       VKB1 – Zoom
+VKB2 – Reserved   VKB3 – Media Play/Pause
+VKB4 – Media Stop VKB5 – Media Next
+VKB6 – Media Prev VKB7 – Volume Mute
+VKB8 – Volume Down VKB9 – Volume Up

@@ -4,6 +4,7 @@
 !b::SendText "β"
 !c::SendText "✓"
 !d::SendText "∆"
+!e::SendText "saxon.honey@contractors.roche.com"
 !h::SendText "♥"
 !m::SendText "μ"
 !o::SendText "°"
@@ -21,13 +22,13 @@
 !.::SendText "➜"
 !,::SendText "⊣"
 
-;FIND NEW HOTKEYS FOR THESE
-;!]::SendText "↓"
-;![::SendText "↑"
+!+,::SendText "↓"
+!+.::SendText "↑"
 
-!`::SendText "________________________"
+
 !=::SendText "⸰"
 !-::SendText "—"
+!+-::SendText "________________________"
 
 
 ; ctrl shift paste to paste with native formatting
@@ -36,112 +37,24 @@
 ; Always on Top
 ^SPACE:: WinSetAlwaysOnTop -1, WinExist("A")
 
+; screenshot
 !1::Send("#+s")
 
-^`::Send("saxon.honey@contractors.roche.com")
+!'::Send '""{Left}'
+![:: Send '[]{Left}'
 
-!'::
-{
-    ; Clear the clipboard and copy the selected text
-    A_Clipboard := ""
-    Send("^c")
-    if !ClipWait(0.5)
-    {
-		Send '""{Left}'
-		return
-	}
-
-    ; Store the copied text
-    selectedText := A_Clipboard
-
-    ; Add quotes around it
-    quoted := '"' selectedText '"'
-
-    ; Replace the selection with the quoted text
-    A_Clipboard := quoted
-    Send("^v")
-
-    ; Optional: Restore original clipboard after a short delay
-    ; Sleep(100)
-    ; A_Clipboard := origClip
+!]::{
+SendText("{}")
+Send '{Left}'
 }
 
-![::
-{
-    ; Clear the clipboard and copy the selected text
-    A_Clipboard := ""
-    Send("^c")
-    if !ClipWait(0.5)
-    {
-		Send '[]{Left}'
-		return
-	}
+!9::Send '(){Left}'
 
-    ; Store the copied text
-    selectedText := A_Clipboard
-
-    ; Add quotes around it
-    quoted := '[' selectedText ']'
-
-    ; Replace the selection with the quoted text
-    A_Clipboard := quoted
-    Send("^v")
-
-    ; Optional: Restore original clipboard after a short delay
-    ; Sleep(100)
-    ; A_Clipboard := origClip
+:*:e'mail::saxon.honey@contractors.roche.com
+:*:to'day::{
+    CurrentDateTime := FormatTime(, "dddd (MM/dd)")
+    Send(CurrentDateTime)
 }
 
-;alt shift [
-!+[:: 
-{
-    ; Clear the clipboard and copy the selected text
-    A_Clipboard := ""
-    Send("^c")
-    if !ClipWait(0.5)
-    {
-		Send '{}{Left}'
-		return
-	}
-
-    ; Store the copied text
-    selectedText := A_Clipboard
-
-    ; Add quotes around it
-    quoted := '{' selectedText '}'
-
-    ; Replace the selection with the quoted text
-    A_Clipboard := quoted
-    Send("^v")
-
-    ; Optional: Restore original clipboard after a short delay
-    ; Sleep(100)
-    ; A_Clipboard := origClip
-}
-
-
-!9::
-{
-    ; Clear the clipboard and copy the selected text
-    A_Clipboard := ""
-    Send("^c")
-    if !ClipWait(0.5)
-    {
-		Send '(){Left}'
-		return
-	}
-
-    ; Store the copied text
-    selectedText := A_Clipboard
-
-    ; Add quotes around it
-    quoted := '(' selectedText ')'
-
-    ; Replace the selection with the quoted text
-    A_Clipboard := quoted
-    Send("^v")
-
-    ; Optional: Restore original clipboard after a short delay
-    ; Sleep(100)
-    ; A_Clipboard := origClip
-}
+:*:u'ser::honeys
+:*:p'ass::1sunforJupiter.{Enter}
