@@ -7,6 +7,10 @@
 !e::SendText "saxon.honey@contractors.roche.com"
 !h::SendText "♥"
 !m::SendText "μ"
+
+; make sticky notes shortcut
+!n::SendText "note"
+
 !o::SendText "°"
 !s::SendText "☠"
 !t::SendText "✦"
@@ -14,7 +18,7 @@
 !x::SendText "✗"
 !y::SendText "γ"
 !z::{
-    CurrentDateTime := FormatTime(, "ddMMMyyyy")
+    CurrentDateTime := FormatTime(, "M-d-yy")
     Send(CurrentDateTime)
 }
 !2::SendText "²"
@@ -58,3 +62,4 @@ Send '{Left}'
 
 :*:u'ser::honeys
 :*:p'ass::1sunforJupiter.{Enter}
+:*:--::—
