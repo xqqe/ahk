@@ -14,7 +14,8 @@ CreateGui() {
     g.gui.SetFont("s" g.fontSize, "Segoe UI")
     g.text := g.gui.Add("Text", "xm ym w150 cFFFFFF", "CPU --%  |  RAM --%")
 
-    g.gui.Show("x3100 y1398 NoActivate") ;y0 is top y1420 is bottom
+    ;g.gui.Show("x3100 y1398 NoActivate") ;y0 is top y1420 is bottom
+	g.gui.Show("x3250 y1338 NoActivate") ;y0 is top y1420 is bottom
 }
 CreateGui()
 

@@ -1,0 +1,217 @@
+<p dir="ltr" style="text-align: left;"></p>
+<h4>ST01:&nbsp;<b><a href="http://rmspathtraining.roche.com/PathViewer.html?axba=23475%2C23476%2C23477" target="_blank">View Slides</a></b></h4>
+<p>%TC (membrane staining ≥ Mod intensity): 100%</p>
+<p>Status ≥ 10% Cutoff:&nbsp;Positive</p>
+<p>Status ≥ 75% Cutoff: Positive</p>
+<p>Comments: </p>
+<p></p>
+<ol>
+    <li>GEJ with salivary-like mucinous glands</li>
+    <li>Note that all tumor cells show fairly crisp moderate to strong CLDN18 membrane staining; other structures, including the submucosal glands, show no CLDN18 staining</li>
+    <li>Note the minimal stromal staining near the left luminal side</li>
+</ol>
+<p></p><br>
+<p></p>
+<h4>ST02:&nbsp;<b><a href="http://rmspathtraining.roche.com/PathViewer.html?axba=23482%2C23483%2C23484" target="_blank">View Slides</a></b></h4>
+<p>%TC: 0%</p>
+<p></p>
+<p>Status @ 10% Cutoff:&nbsp;Negative</p>
+<p>Status @ 75% Cutoff:&nbsp;Negative</p>
+<p></p>
+<p>Comments:</p>
+<p></p>
+<ol>
+    <li>Tumor, non-neoplastic gastric epithelium, intestinal metaplasia, dysplastic epithelium, and intramucosal carcinoma are present;&nbsp; we have to determine what to score (it may be necessary to go and forth to the H&amp;E)</li>
+    <li>Note 3 areas that stain: 1) ?tumor, 2) intramucosal tumor, and 3) non-tumor</li>
+    <li>Score tumor, including intramucosal tumor (may be necessary to consult a colleague)</li>
+    <li>In this case, we don't see staining in the any area of the tumor</li>
+</ol>
+<p></p>
+<p></p>
+<p><br></p>
+<p></p>
+<h4>ST03:&nbsp;<b><a href="http://rmspathtraining.roche.com/PathViewer.html?axba=23486%2C23487%2C23488" target="_blank">View Slides</a></b></h4>
+<p>%TC: 5%</p>
+<p></p>
+<p>Status @ 10% Cutoff:&nbsp;Negative</p>
+<p>Status @ 75% Cutoff:&nbsp;Negative</p>
+<p></p>
+<p>Comments:</p>
+<p></p>
+<ol>
+    <li>GEJ with non-neoplastic epithelium, mucinous glands, and tumor</li>
+    <li>Note presence of tumor within papillae and growing into glandular structure with abnormal architecture</li>
+    <li>Note presence of submucosal glandular structures with high-grade changes, abnormal architecture, and a dysplastic stroma--intramucosal tumor</li>
+</ol>
+<p></p>
+<p><br></p>
+<p></p>
+<p></p>
+<h4>ST04:&nbsp;<b><a href="http://rmspathtraining.roche.com/PathViewer.html?axba=23490%2C23964%2C23965" target="_blank">View Slides</a></b></h4>
+<p>%TC: 15%</p>
+<p></p>
+<p>Status @ 10% Cutoff:&nbsp;Negative</p>
+<p>Status @ 75% Cutoff:&nbsp;Negative</p>
+<p></p>
+<p>Comments:</p>
+<p></p>
+<ol>
+    <li>Signet rings with focal intestinal type with mucin; small, detached fragment of non-neoplastic epithelium (*)</li>
+    <li>Somewhat granular weak to moderate membrane staining and granular cytoplasmic staining present</li>
+    <li>Note CLDN18 staining of tumor within lymphoid aggregate</li>
+    <li>Review H&amp;E to get a sense of overall tumor cell density and assess percent tumor cells with moderate to strong CLDN18 membrane staining</li>
+</ol>
+<p></p>
+<p><br></p>
+<p></p>
+<h4>ST05:&nbsp;<b><a href="http://rmspathtraining.roche.com/PathViewer.html?axba=23509%2C23510%2C23511" target="_blank">View Slides</a></b></h4>
+<p>%TC: 25%</p>
+<p></p>
+<p>Status @ 10% Cutoff:&nbsp;Negative</p>
+<p>Status @ 75% Cutoff:&nbsp;Negative</p>
+<p></p>
+<p>Comments:</p>
+<p></p>
+<ol>
+    <li>Abundant non-neoplastic gastric epithelium with intestinal type (tubular) tumor present</li>
+    <li>Note parietal cell cytoplasmic blush on NRC--acceptable</li>
+    <li>This challenging case shows heterogeneity in staining intensity (weak to moderate) and pattern (apical, partial and complete circumferential) as well as nonspecific staining of luminal debris"</li>
+</ol>
+<p></p>
+<p><br></p>
+<p></p>
+<h4>ST06:&nbsp;<b><a href="http://rmspathtraining.roche.com/PathViewer.html?axba=23516%2C23517%2C23518" target="_blank">View Slides</a></b></h4>
+<p>%TC: 30%</p>
+<p></p>
+<p>Status @ 10% Cutoff:&nbsp;Negative</p>
+<p>Status @ 75% Cutoff:&nbsp;Negative</p>
+<p></p>
+<p>Comments:</p>
+<p></p>
+<ol>
+    <li>Intestinal type (tubular) tumor with focus of diffuse type tumor present</li>
+    <li>Two clones present? (1 with ~ 90% staining and the 2nd with ~20% staining)</li>
+    <li>Do not include tumor within intraluminal debris toward positivity</li>
+</ol>
+<p></p>
+<p><br></p>
+<p></p>
+<h4>ST07:&nbsp;<b><a href="http://rmspathtraining.roche.com/PathViewer.html?axba=23523%2C23524%2C23525" target="_blank">View Slides</a></b></h4>
+<p>%TC: 40%</p>
+<p></p>
+<p>Status @ 10% Cutoff:&nbsp;Negative</p>
+<p>Status @ 75% Cutoff:&nbsp;Negative</p>
+<p></p>
+<p>Comments:</p>
+<p></p>
+<ol>
+    <li>Non-neoplastic epithelium and diffuse type tumor present</li>
+    <li>Ulcer bed is present: the portion nearer the non-neoplastic epithelium has admixed tumor cells; the farther ulcer bed does not</li>
+    <li>This case shows heterogenity in staining intensity (weak to focally strong) and staining pattern (partial and complete circumferential)</li>
+    <li>The more luminal portion of the tumor shows overall more staining than the deeper tumor; comparison to H&amp;E necessary to determine overall % tumor cell CLDN18 membrane staining</li>
+</ol>
+<p></p>
+<p><br></p>
+<p></p>
+<p></p>
+<h4>ST08:&nbsp;<b><a href="http://rmspathtraining.roche.com/PathViewer.html?axba=23530%2C23531%2C23532" target="_blank">View Slides</a></b></h4>
+<p>%TC: 55%</p>
+<p></p>
+<p>Status @ 10% Cutoff:&nbsp;Positive</p>
+<p>Status @ 75% Cutoff:&nbsp;Negative</p>
+<p><span style="font-size: 0.9375rem;">Comments:</span></p>
+<p></p>
+<ol>
+    <li>Esophagus with non-neoplastic epithelium and intestinal type tumor</li>
+    <li>Note that glandular structures undermining squamous epithelium are tumor</li>
+    <li>Challenging case with heterogeneity in staining intensity (weak to strong); largely circumferential (complete, partial) staining pattern; and disparity in tumor cell density related to varying size of glands "</li>
+</ol>
+<p></p>
+<p><br></p>
+<h4>ST09:&nbsp;<b><a href="http://rmspathtraining.roche.com/PathViewer.html?axba=23537%2C23538%2C23539" target="_blank">View Slides</a></b></h4>
+<p>%TC: 75%</p>
+<p></p>
+<p>Status @ 10% Cutoff:&nbsp;Positive</p>
+<p>Status @ 75% Cutoff:&nbsp;Positive</p>
+<p></p>
+<p>Comments:</p>
+<p></p>
+<ol>
+    <li>Non-neoplastic epithelium with intestinal type (tubular) tumor</li>
+    <li>Tumor within lymphatics counts toward positive tumor cell staining</li>
+    <li>Staining is largely moderate to strong with focally granular membrane staining</li>
+    <li>Note the unusual dot- and starburst-like staining pattern on the right portion of the tissue; this represents Claudin staining in the apical portion of the cells and microlumina can be seen (this counts toward % tumor cell positive)"</li>
+</ol>
+<p></p>
+<p><br></p>
+<p></p>
+<h4>ST10:&nbsp;<b><a href="http://rmspathtraining.roche.com/PathViewer.html?axba=23544%2C23545%2C23546" target="_blank">View Slides</a></b></h4>
+<p>%TC: 80%</p>
+<p></p>
+<p>Status @ 10% Cutoff:&nbsp;Positive</p>
+<p>Status @ 75% Cutoff:&nbsp;Positive</p>
+<p></p>
+<p>Comments:</p>
+<p></p>
+<ol>
+    <li>Biopsy specimen with multiple tissue fragments</li>
+    <li>Need to determine what to include as tumor and score</li>
+    <li>Do not include non-viable tumor cells or tumor cells within necrotic debris in scoring</li>
+    <li>Borderline case</li>
+</ol>
+<p></p>
+<p><br></p>
+<p></p>
+<h4></h4>
+<h4>ST11:&nbsp;<b><a href="http://rmspathtraining.roche.com/PathViewer.html?axba=23551%2C23552%2C23966" target="_blank">View Slides</a></b></h4>
+<p>%TC: 5%</p>
+<p></p>
+<p>Status @ 10% Cutoff:&nbsp;Negative</p>
+<p>Status @ 75% Cutoff:&nbsp;Negative</p>
+<p></p>
+<p>Comments:</p>
+<p></p>
+<ol>
+    <li>Challenging case with most of tumor as signet ring cells within mucin</li>
+    <li>Identify areas of high tumor cell density on H&amp;E</li>
+    <li>In some areas, it is clear that the tumor cells are not staining</li>
+    <li>In some areas, moderate to strong partial to complete membrane staining can be seen (minority of tumor cells)</li>
+    <li>If tumor cell appears to show complete circumferential and nuclear staining, don't count as positive</li>
+    <li>Count only tumor cells with clear partial or circumferential membrane staining (best to consensus with colleague)</li>
+</ol>
+<p></p>
+<p><br></p>
+<h4>ST12:&nbsp;<b><a href="http://rmspathtraining.roche.com/PathViewer.html?axba=23558%2C23559%2C23560" target="_blank">View Slides</a></b></h4>
+<p>%TC: 90%</p>
+<p></p>
+<p>Status @ 10% Cutoff:&nbsp;Positive</p>
+<p>Status @ 75% Cutoff:&nbsp;Positive</p>
+<p><span style="font-size: 0.9375rem;">Comments:</span></p>
+<p></p>
+<ol>
+    <li>No non-neoplastic epithelium and at least 50 viable tumor cells present</li>
+    <li>Focally granular tumor cell staining is present with overall &gt;75% of tumor cells at moderate to strong membrane staining</li>
+</ol>
+<p></p>
+<p><br></p>
+<h4><br></h4>
+<h4>ST15 (SLC1):&nbsp;<b><a href="http://rmspathtraining.roche.com/PathViewer.html?axba=23746%2C23747" target="_blank">View Slides</a></b></h4>
+<p>Comments:</p>
+<p></p>
+<ol>
+    <li><span style="font-size: 0.9375rem;">H&amp;E shows non-neoplastic epithelium, intestinal metaplasia and intestinal type tumor</span></li>
+    <li>SLC:&nbsp; Non-neoplastic epithelium with strong staining, intestinal metaplasia with weak and moderate staining (also absent and strong staining), tumor with absent to strong staining and no background staining (acceptable).</li>
+</ol><br>
+<p></p>
+<p></p>
+<h4>ST16 (SLC2):&nbsp;<b><a href="http://rmspathtraining.roche.com/PathViewer.html?axba=23748%2C23749" target="_blank">View Slides</a></b></h4>
+<p>Comments:</p>
+<p></p>
+<ol>
+    <li>SLC2A:&nbsp; Non-neoplastic epithelium with strong staining, intestinal metaplasia with weak and moderate staining (also absent and strong staining), tumor with absent to strong staining and no background staining (acceptable).</li>
+    <li>SLC2B:&nbsp; Non-neoplastic epithelium with light staining, intestinal metaplasia with very focal weak staining and no background staining (unacceptable).</li>
+</ol>
+<p></p>
+<p><br></p>
+<h3><b><b>*** END OF SET ***</b></b></h3><br>
+<p></p>
