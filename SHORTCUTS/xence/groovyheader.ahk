@@ -1,3 +1,3 @@
-SendText "// ---- HEADER ----"
+SendText "/* ---- HEADER ---- */"
 Sleep(100)
 ExitApp

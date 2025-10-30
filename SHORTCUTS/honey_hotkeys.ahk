@@ -23,7 +23,8 @@
 }
 !2::SendText "²"
 
-!.::SendText "➜"
+!.::SendText "→"
+;!.::SendText "➜"
 !,::SendText "⊣"
 
 !+,::SendText "↓"
