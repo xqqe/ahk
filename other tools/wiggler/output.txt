@@ -1,0 +1,2 @@
+Hello world!
+This was typed by AHK2.
