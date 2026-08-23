@@ -1,5 +1,9 @@
 ﻿; ! is alt ___ ^ is control ___ + is shift ___ # is windows
 
+#Requires AutoHotkey v2.0
+#SingleInstance Force
+Persistent
+
 !a::SendText "α"
 !b::SendText "β"
 !c::SendText "✓"
@@ -26,6 +30,8 @@
 !.::SendText "→"
 ;!.::SendText "➜"
 !,::SendText "⊣"
+^!.::SendText "≥"
+^!,::SendText "≤"
 
 !+,::SendText "↓"
 !+.::SendText "↑"
@@ -60,7 +66,8 @@ Send '{Left}'
 :*:n'ame::Saxon Honey
 :*:u'ser::honeys
 :*:p'ass::1sunforJupiter.{Enter}
-:*:--::—
+
+
 
 ;DAYS OF THE WEEK
 
